@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rlenorph.github.io/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/app/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/assets/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/css/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/data/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/includes/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/item/sitemap.rlenorph.gz
+Sitemap: https://rlenorph.github.io/src/sitemap.rlenorph.gz
